@@ -1,0 +1,75 @@
+body {
+    background-image: url(../images/background.jpg);
+}
+
+#header {
+    border: solid rgb(190, 188, 188);
+    background-color: pink;
+    padding: 10px;
+    margin: 10px 0px 10px 150px;
+    width: 370px;
+}
+
+#instructions {
+    border: solid rgb(190, 188, 188);
+    background-color: rgb(52, 52, 146);
+    margin-bottom: 10px;
+    margin-left: 150px;
+    width: 500px;
+}
+
+#computer-number {
+    border: solid rgb(190, 188, 188);
+    background-color: rgb(41, 129, 41);
+    margin-bottom: 10px;
+}
+
+#wins-losses {
+    border: solid rgb(190, 188, 188);
+    background-color: rgb(139, 42, 139);
+    margin-bottom: 10px;
+    margin-left: 10px;
+
+}
+
+#button-container {
+    padding-left: 0px;
+}
+
+#button-div {
+ padding: 0px;
+}
+
+#score-headerDiv {
+    border: solid  rgb(190, 188, 188);
+    background-color: rgb(129, 129, 196);
+    margin-bottom: 10px;
+    height: 75px;
+    padding: 15px;
+}
+
+#score-numberDiv{
+    border: solid rgb(190, 188, 188);
+    background-color: rgb(122, 187, 24);
+    height: 200px;
+    margin-bottom: 10px;
+    padding: 15px;
+
+}
+
+img {
+    height: 100px;
+    width: 100px;
+}
+
+#gem1, #gem2, #gem3, #gem4 {
+    /* margin: 5px; */
+    border: solid rgb(190, 188, 188);
+    background-color: rgb(189, 55, 55);
+    margin-bottom: 5px;
+    padding: 5px;
+}
+
+p{
+    color: white;
+}
